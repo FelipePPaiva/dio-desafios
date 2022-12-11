@@ -8,3 +8,8 @@ Repositorio para desafio de projetos
 * [Estruturas Condicionais](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/02%20-%20condicionais)
 * [Praticando com variáveis, operadores e estruturas condicionais](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/03%20-%20exercicios)
 
+### Aula 02 - Conhecendo Funções JavaScript
+>Aula onde aprendemos um pouco sobre o funcionamento de funções e como aplicar em trechos de códigos que se repetem ou que seja de responsábilidade uníca. 
+
+* [Funções]()
+

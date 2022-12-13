@@ -5,14 +5,16 @@
 //     - Média entre 5 e 7, recuperação;
 //     - Média acima de 7, passou de semestre;
 
-let media = calcularMediaNota(10, 4.4, 5.3);
-let mediaFinal = classificacaoMedia(media);
+main();
+
+function main(){
+    let media = calcularMediaNota(10, 4.4, 5.3);
+    let mediaFinal = classificacaoMedia(media);
 
 
-console.log(media.toFixed(2));
-console.log(mediaFinal);
-
-
+    console.log(media.toFixed(2));
+    console.log(mediaFinal);
+}
 
 function calcularMediaNota(nota1, nota2, nota3){
     let mediaNota = (nota1 + nota2 + nota3)/3;

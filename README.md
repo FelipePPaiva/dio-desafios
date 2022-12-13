@@ -12,4 +12,5 @@ Repositorio para desafio de projetos
 >Aula onde aprendemos um pouco sobre o funcionamento de funções e como aplicar em trechos de códigos que se repetem ou que seja de responsábilidade uníca. 
 
 * [Funções](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/04%20-%20fun%C3%A7%C3%B5es)
+* [Praticando funções](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/05%20-%20praticando%20com%20fun%C3%A7%C3%B5es)
 

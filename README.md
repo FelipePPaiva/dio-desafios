@@ -14,3 +14,8 @@ Repositorio para desafio de projetos
 * [Funções](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/04%20-%20fun%C3%A7%C3%B5es)
 * [Praticando funções](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/05%20-%20praticando%20com%20fun%C3%A7%C3%B5es)
 
+### Aula 03 - Criando Objetos e Classes em javaScript
+>Nesta aula aprendemos a criar objetos que são uma coleção de valores e funciona através de chave e valor. Podemos utilizar funções dentro dos objetos, que são chamados de método.
+
+*[Objetos e Classes](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/06%20-%20classes%20e%20objetos)
+*[Praticando com Objestos e Classes](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/07%20-%20praticando%20com%20objetos%20e%20classes)

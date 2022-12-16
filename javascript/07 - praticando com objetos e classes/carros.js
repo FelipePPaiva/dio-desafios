@@ -16,7 +16,7 @@ class Carros {
     }
 
     gasto(){
-        return (this.valorCombustivel * (this.kmViagem/this.kmPorLitro));
+        return (this.valorCombustivel * (this.kmViagem / this.kmPorLitro));
     }
 }
 
@@ -28,3 +28,28 @@ console.log(bmw);
 
 console.log(`O valor gasto para percorrer é de R$` + carro.gasto().toFixed(2));
 console.log(`O valor gasto para percorrer é de R$` + bmw.gasto().toFixed(2));
+
+
+//Outra forma de fazer definindo Quilometragem e Valor do combustivel dentro do método.
+
+class Carros2 {
+    marca;
+    cor;
+    kmPorLitro;
+
+    constructor(marca, cor, kmPorLitro){
+        this.marca = marca;
+        this.cor = cor;
+        this.kmPorLitro = kmPorLitro;
+    }
+
+    gasto(quilometragem, valorCombustivel){
+        return (valorCombustivel * (quilometragem / this.kmPorLitro));
+    }
+}
+
+const palio = new Carros2('Volks','Vermelho', 10.9 );
+
+console.log(palio);
+
+console.log(`O valor gasto para percorrer com o  é de R$` + palio.gasto(500, 4.44).toFixed(2));

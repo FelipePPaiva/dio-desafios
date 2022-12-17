@@ -1,5 +1,5 @@
 # Repositório do Desafio de projeto Orange Tech +
-Repositorio para desafio de projetos
+Repositorio para armazenamento dos programas desenvolvidos nas aulas e os desafio de projetos.
 
 ### Aula 01 - Primeiros Passos com Javascript
 >Aula onde aprendemos variáveis, operadores, condicionais e fizemos alguns exericios para fixação!
@@ -19,3 +19,9 @@ Repositorio para desafio de projetos
 
 * [Objetos e Classes](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/06%20-%20classes%20e%20objetos)
 * [Praticando com Objestos e Classes](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/07%20-%20praticando%20com%20objetos%20e%20classes)
+
+### Aula 04 - Arrays e Estruturas de Repetição em JavaScript
+>Aprendemos que arrays são utilizadas para armazenar uma listas de itens e como fazemos para acessar, adicionar e remover um item. Em relação a Estrutura de repetição foi visto que o FOR é utilizado para percorrer uma quantidade especifica de vezes até que a condição seja aceita.
+
+* [Arrays e Estruturas de Repetição](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/08%20-%20arrays%20e%20estruturas%20de%20repeti%C3%A7%C3%A3o)
+* [Praticanco Estruturas de Repetição](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/09%20-%20praticando%20estruturas%20de%20repeti%C3%A7%C3%A3o)

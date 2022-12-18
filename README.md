@@ -25,3 +25,9 @@ Repositorio para armazenamento dos programas desenvolvidos nas aulas e os desafi
 
 * [Arrays e Estruturas de Repetição](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/08%20-%20arrays%20e%20estruturas%20de%20repeti%C3%A7%C3%A3o)
 * [Praticanco Estruturas de Repetição](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/09%20-%20praticando%20estruturas%20de%20repeti%C3%A7%C3%A3o)
+
+### Aula 05 - Importação e Exportação com JavaScript
+>Nesta aula aprendemos utilizar os métodos de importar (require) e exportar (module.exports), alem de ver de forma simples como funciona um object destructuring.
+
+* [Desvendando as Funções "gets" e "print" dos Desafios de Código](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/10%20-%20imporata%C3%A7%C3%A3o%20e%20exporta%C3%A7%C3%A3o)
+* [Praticando os Conceitos de Importação e Exportação](https://github.com/FelipePPaiva/dio-desafios/tree/main/javascript/11%20-%20praticando%20os%20conceitos%20de%20importa%C3%A7ao%20e%20exporta%C3%A7%C3%A3o)
